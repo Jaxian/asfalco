@@ -1,0 +1,38 @@
+/*======= index.html =======*/
+#page1 #content .col-1 {width:295px; margin-right:20px;}
+#page1 #content .col-2 {width:565px;}
+
+#page1 #content .col-2 .col-1 {width:140px; margin-right:1px;}
+#page1 #content .col-2 .col-2 {width:140px; margin-right:1px;}
+#page1 #content .col-2 .col-3 {width:141px; margin-right:1px;}
+#page1 #content .col-2 .col-4 {width:141px;}
+
+/*======= index-1.html =======*/
+#page2 #content .col-1 {width:565px; margin-right:20px;}
+#page2 #content .col-2 {width:295px;}
+
+/*======= index-2.html =======*/
+#page3 #content .col-1 {width:295px; margin-right:20px;}
+#page3 #content .col-2 {width:565px;}
+
+/*======= index-3.html =======*/
+#page4 #content .col-1 {width:565px; margin-right:20px;}
+#page4 #content .col-2 {width:295px;}
+
+/*======= index-4.html =======*/
+#page5 #content .col-1 {width:295px; margin-right:20px;}
+#page5 #content .col-2 {width:565px;}
+
+/*======= index-5.html =======*/
+#page6 #content .col-1 {width:565px; margin-right:20px;}
+#page6 #content .col-2 {width:295px;}
+
+/*======= index-6.html =======*/
+#page7 #content .col-1 {width:295px; margin-right:20px;}
+#page7 #content .col-2 {width:565px;}
+
+
+
+
+
+
